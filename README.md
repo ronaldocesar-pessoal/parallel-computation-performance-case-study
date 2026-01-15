@@ -108,11 +108,11 @@ Sugestão de leitura:
 
 ## Reference paper
 
-This technical essay is inspired by the following peer-reviewed work (written in Portuguese):
+Este ensaio técnico é inspirado no seguinte trabalho revisado por pares (escrito em português):
 
 **Redução do tempo de processamento do Cálculo Atuarial das Forças Armadas: uma aplicação da Computação Paralela**  
 Carlos Francisco Simões Gomes; Marcos dos Santos; Ernesto Rademaker Martins;  
 Thierry Faria da Silva Gregório; **Ronaldo Cesar Evangelista dos Santos**  
 2017
 
-The full paper is included in this repository as a PDF for long-term reference.
+O artigo completo está incluído neste repositório em formato PDF para referência de longo prazo.
