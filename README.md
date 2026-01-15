@@ -106,8 +106,13 @@ Sugestão de leitura:
 2) consultar as seções de decisões e benchmarks (arquivos adicionais, se existentes)
 3) ler o artigo original para contexto e métricas completas
 
-## Referência (trabalho que inspira o ensaio)
+## Reference paper
 
-Redução do tempo de processamento do Cálculo Atuarial das Forças Armadas: uma aplicação da Computação Paralela.
-Autores: Carlos Francisco Simões Gomes; Marcos dos Santos; Ernesto Rademaker Martins; Thierry Faria da Silva Gregório; Ronaldo Cesar Evangelista dos Santos.
-Ano: 2017.
+This technical essay is inspired by the following peer-reviewed work (written in Portuguese):
+
+**Redução do tempo de processamento do Cálculo Atuarial das Forças Armadas: uma aplicação da Computação Paralela**  
+Carlos Francisco Simões Gomes; Marcos dos Santos; Ernesto Rademaker Martins;  
+Thierry Faria da Silva Gregório; **Ronaldo Cesar Evangelista dos Santos**  
+2017
+
+The full paper is included in this repository as a PDF for long-term reference.
