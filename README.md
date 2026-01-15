@@ -106,7 +106,7 @@ Sugestão de leitura:
 2) consultar as seções de decisões e benchmarks (arquivos adicionais, se existentes)
 3) ler o artigo original para contexto e métricas completas
 
-## Reference paper
+## Artigo de referência
 
 Este ensaio técnico é inspirado no seguinte trabalho revisado por pares (escrito em português):
 
